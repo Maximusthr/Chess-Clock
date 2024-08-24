@@ -3,7 +3,7 @@
 
 ## 🧠 Sobre o Projeto 
 
-<p> O <b>"Chess Clock"</b> é a criação de um relógio de xadrez utilizando arduino, tentando ao máximo barateá-lo.</p>
+<p> O <b>"Chess Clock"</b> é a criação de um relógio de xadrez utilizando arduino, tentando ao máximo barateia-lo.</p>
 
 ## 👨‍💻 Equipe
 
